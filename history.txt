@@ -1,0 +1,21 @@
+20
+bg 1
+jobs
+xeyes
+jobs
+fg 2
+jobs
+xeyes &
+jobs
+bg 1
+xeyes
+jobs
+sig 1 9
+jobs
+xeyes &
+sig 1 18
+jobs
+bg 2
+jobs
+sig 2 7
+jobs

@@ -1,0 +1,21 @@
+20
+cat history.txt | head -15 | tail -10 | head -5
+cat history.txt | head -15 | tail -10 | head -5
+cat history.txt | head -15 | tail -10 | head -5
+cat history.txt | head -15 | tail -10 | head -5
+cat history.txt | head -15 | tail -10 | head -5
+cat history.txt | head -15 | tail -2
+cat history.txt | head -15 | tail -2
+cat < in.txt | wc -l
+cd
+cd
+cd -
+cd ..
+cd ; sleep 2
+cd .. ; sleep 3
+clear
+ls
+sort < history.txt > lines_sorted.txt
+sort < history.txt > lines_sorted.txt
+sort < history.txt > lines_sorted.txt
+sort < in.txt > l2.txt
